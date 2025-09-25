@@ -1,0 +1,18 @@
+https://www.tandfonline.com/doi/full/10.1080/00107514.2014.964942#d1e271
+
+Ese es un articulo completo de QML, pero está en ingles, me parece que aborda los conceptos de manera grafica, ayudando a entender.
+
+
+https://repositorio.escuelaing.edu.co/entities/publication/da6a84e6-d773-45a2-aeea-012afe438f06
+
+Ese está en español, pero habla mas desde la parte operativa, que el primero también la incluye, pero este mas de ecuaciones y gráficos pero no tan claros
+
+
+https://www.mdpi.com/2079-9292/12/11/2379
+
+Este también define conceptos, esta en ingles, habla también desde el crecimiento y en campos que se ha aplicado por medio de graficas, hace comparaciones de efectividad entre QML y SVM
+
+
+https://youtu.be/jOwAQY3Sk3Q
+
+Ese es un video en ingles que habla del QML
