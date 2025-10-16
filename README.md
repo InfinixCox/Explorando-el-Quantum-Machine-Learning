@@ -1,6 +1,8 @@
 # 🌌 Exploración y divulgación de los fundamentos básicos de Quantum Machine Learning (QML) en la Facultad de Ingeniería de la Universidad Autónoma de Occidente
 
-<!-- 🎥 Inserta aquí tu visualización que represente la Superposición o el Entrelazamiento -->
+<p align="center">
+  <img src="images/superposicion.gif" alt="Visualización de la superposición cuántica" width="480">
+</p>
 
 ---
 
