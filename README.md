@@ -33,7 +33,7 @@ A continuación se presentan las **tres capas conceptuales** que estructuran el 
 
 ---
 
-### I. 🤖 Introducción al Machine Learning (ML)
+### I. 🤖 [Introducción al Machine Learning (ML)]((docs/03_Introducción%20al%20Machine%20Learning.pdf))
 
 El **Machine Learning (ML)** es una rama de la inteligencia artificial que busca **entrenar modelos capaces de aprender patrones a partir de datos**, imitando el proceso de aprendizaje humano.  
 Los algoritmos de ML permiten que las máquinas **tomen decisiones, clasifiquen información o realicen predicciones** sin estar explícitamente programadas para cada tarea.
