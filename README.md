@@ -1,4 +1,4 @@
-# 🌌 Exploración y divulgación de los fundamentos básicos de Quantum Machine Learning (QML) en la Facultad de Ingeniería de la Universidad Autónoma de Occidente
+# 🌌 Exploración y divulgación de los fundamentos básicos de Quantum Machine Learning (QML) en la Facultad de Ingeniería y Ciencias Básicas de la Universidad Autónoma de Occidente
 
 <p align="center">
   <img src="images/superposicion.gif" alt="Visualización de la superposición cuántica" width="480">
