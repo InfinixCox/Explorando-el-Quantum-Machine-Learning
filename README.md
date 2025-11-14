@@ -54,7 +54,7 @@ Los algoritmos de ML permiten que las máquinas **tomen decisiones, clasifiquen 
 
 Para comprender el QML, es necesario introducir los conceptos básicos de la **información cuántica**, donde los datos dejan de ser simples ceros y unos, y se representan mediante estados cuánticos.
 
-- **Qubit:**  
+- [**Qubit:**](docs/04_Qbits.pdf)  
   Es la unidad fundamental de información cuántica. A diferencia del bit clásico (que solo puede ser 0 o 1), un qubit puede estar en una **superposición** de ambos estados al mismo tiempo.
 
 - **Superposición:**  
